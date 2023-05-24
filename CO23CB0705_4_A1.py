@@ -1,4 +1,7 @@
-my_dict = {'name': 'Conji', 'age': 13, 'city': 'New town, Avora'}
+my_dict = {
+    'name': 'Conji', 
+    'age': 13, 
+    'city': 'New town, Avora'}
 
 # Accessing dictionary elements using [] syntax
 name = my_dict['name']
