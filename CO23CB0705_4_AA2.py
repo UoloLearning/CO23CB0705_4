@@ -1,4 +1,4 @@
-# Create a phone book using nested dictionary
+# Create a phone book using a nested dictionary
 phone_book = {
     'friend1': {
         'name': 'Eva',
