@@ -1,5 +1,10 @@
-# Example nested dictionary
-my_dict = {'name': 'Conji', 'details': {'age': 25, 'city': 'New York'}}
+my_dict = {
+    'name': 'Conji', 
+    'details': {
+        'age': 25, 
+        'city': 'New York'
+    }
+}
 
 # Updating the nested dictionary with new values
 my_dict['details']['age'] = 13
