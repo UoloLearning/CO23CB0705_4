@@ -1,4 +1,4 @@
-my_dict = {
+student_data = {
     'name': 'Conji', 
     'details': {
         'age': 25, 
@@ -7,9 +7,9 @@ my_dict = {
 }
 
 # Updating the nested dictionary with new values
-my_dict['details']['age'] = 13
-my_dict['details']['city'] = 'New town, Avora'
-my_dict['details']['occupation'] = 'Wizard Student'
+student_data['details']['age'] = 13
+student_data['details']['city'] = 'New town, Avora'
+student_data['details']['occupation'] = 'Wizard Student'
 
 # Printing the updated nested dictionary
-print(my_dict)
+print(student_data)
