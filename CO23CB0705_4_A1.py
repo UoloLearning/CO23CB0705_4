@@ -1,12 +1,12 @@
-my_dict = {
+student_data = {
     'name': 'Conji', 
     'age': 13, 
     'city': 'New town, Avora'}
 
 # Accessing dictionary elements using [] syntax
-name = my_dict['name']
-age = my_dict['age']
-city = my_dict['city']
+name = student_data['name']
+age = student_data['age']
+city = student_data['city']
 
 # Printing the accessed elements
 print("Name:", name)
